@@ -20,50 +20,41 @@
 
 ---
 
-## 🔹 Skills  
+## 🔹 Skills
 
-<div style="display:flex; gap:15px; flex-wrap:wrap; align-items:center;">
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-    <p>HTML5</p>
-  </div>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-    <p>CSS3</p>
-  </div>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="50" height="50"/>
-    <p>SASS</p>
-  </div>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pug/pug-original.svg" alt="PUG" width="50" height="50"/>
-    <p>PUG</p>
-  </div>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-    <p>JavaScript</p>
-  </div>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-    <p>React</p>
-  </div>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50"/>
-    <p>Tailwind CSS</p>
-  </div>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
-    <p>Bootstrap</p>
-  </div>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-    <p>Git</p>
-  </div>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-    <p>Node.js</p>
-  </div>
-</div>
+<p align="left">
+  <span style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" /><br>HTML5
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" /><br>CSS3
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50" /><br>SASS
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pug/pug-original.svg" width="50" height="50" /><br>PUG
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" /><br>JavaScript
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" /><br>React
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" /><br>Tailwind CSS
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" /><br>Bootstrap
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" /><br>Git
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" /><br>Node.js
+  </span>
+</p>
+
 
 ---
 
