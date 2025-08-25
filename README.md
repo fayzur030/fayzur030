@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://www.freepik.com/free-ai-image/programmer-night_413719534.htm#fromView=search&page=1&position=31&uuid=4862e3f5-3fea-4f52-8204-9fc7c4835e0b&query=developerwallpaper" alt="Profile Banner" width="100%" />
+  <img src="https://github.com/fayzur030/fayzurrahman/blob/main/Github%20banner%20(1).gif" alt="Profile Banner" width="100%" />
 </p>
 
 
