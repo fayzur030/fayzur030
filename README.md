@@ -85,6 +85,8 @@
 ✨ _"Code. Learn. Build. Repeat."_ ✨
 <!-- GitHub Contribution Snake -->
 <p align="left">
-  <img src="https://github.com/mdfayzurrahman/github-contribution-grid-snake/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation">
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
+
+
 
