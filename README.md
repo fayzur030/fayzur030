@@ -82,10 +82,9 @@
 
 ---
 
-✨ _"Code. Learn. Build. Repeat."_ ✨
-<!-- GitHub Contribution Snake -->
+### 🐍 GitHub Contribution Snake
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/<your-username>/<repo>/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 
