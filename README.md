@@ -77,7 +77,7 @@
 
 ## 🔹 Connect With Me
 - 🌐 Portfolio: https://my-port-folio-beta-pink.vercel.app/
-- 💼 LinkedIn: linkedin.com/in/md-fayzur-rahman-00a673380 
+- 💼 LinkedIn: https://www.linkedin.com/in/md-fayzur-rahman-00a673380/
 - 📧 Email: mdfayzurrahman030@gmail.com  
 
 ---
