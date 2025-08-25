@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="https://www.freepik.com/free-ai-image/programmer-night_413719534.htm#fromView=search&page=1&position=31&uuid=4862e3f5-3fea-4f52-8204-9fc7c4835e0b&query=developerwallpaper" alt="Profile Banner" width="100%" />
+</p>
+
+
 # 👋 Hi, I'm Md. Fayzur Rahman
 
 💻 **Aspiring Frontend Developer**  
@@ -30,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://techicons.dev/icons/tailwindcss.svg" alt="TailwindCSS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
