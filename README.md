@@ -42,7 +42,7 @@
 ---
 
 ## 🔹 Tech Stack
-- **Frontend:** React, TypeScript, JavaScript (ES6+), Tailwind CSS, DaisyUI  
+- **Frontend:**Html, Css, React, Next js,  TypeScript, JavaScript (ES6+), Tailwind CSS, DaisyUI, Sadcn
 - **State Management:** Zustand, Context API  
 - **Backend / Auth:** Firebase  
 - **Tools:** Git, GitHub, VS Code, Vite  
