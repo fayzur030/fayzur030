@@ -41,10 +41,11 @@
 
 I'm **Md. Fayzur Rahman**, a passionate **Full-Stack Web Developer** from Bangladesh.
 
-I enjoy building modern, responsive, and user-friendly web applications from frontend to backend. Currently, I'm focusing on strengthening my skills in **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, and MongoDB** while working on real-world projects.
+I enjoy building modern, responsive, and user-friendly web applications from frontend to backend. Currently, I'm focusing on strengthening my skills in **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, and databases** while working on real-world projects.
 
-I'm passionate about writing clean, maintainable code and building scalable web applications. I continuously learn new technologies and improve my problem-solving skills to grow as a software engineer.
+I'm passionate about writing clean, maintainable code and building scalable web applications. I’m continuously learning new technologies and improving my problem-solving skills to become a better software engineer.
 
+- 👋 Hi, I am <a href="https://github.com/fayzur030">fayzur030</a>
 - 🚀 Currently working on **React.js & TypeScript** for frontend development
 - ⚛️ Building modern web applications with **React.js & Next.js**
 - 🎨 Creating responsive interfaces with **Tailwind CSS**
