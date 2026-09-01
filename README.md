@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/fayzur030/fayzurrahman/blob/main/Github%20banner%20(1).gif" alt="Profile Banner" width="100%" />
+  <img src="https://github.com/fayzur030/fayzur030/blob/main/ChatGPT%20Image%20banner%20Jul%2013%2C%202026%2C%2007_44_46%20PM.png" alt="Profile Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Md. Fayzur Rahman
