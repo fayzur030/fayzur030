@@ -139,7 +139,7 @@ I'm passionate about writing clean, maintainable code and building scalable web 
 
 ## 📍 Location & Contact : 
 
-- **Location:** Satkhira, Khulna, Bangladesh 
+- **Location:** Dhaka, Bangladesh 
 - 📧 **Email:** mdfayzurrahman030@gmail.com
 
 <!-- ======================= CONNECT ======================= -->
