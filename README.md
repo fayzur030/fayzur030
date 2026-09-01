@@ -90,7 +90,7 @@ I'm passionate about writing clean, maintainable code and building scalable web 
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="50" />&nbsp;&nbsp;
 </p>
 
-### 🚀 Deployment Platforms
+### Deployment Platforms
 
 <p align="start">
   <img src="https://skillicons.dev/icons?i=vercel" height="50" />&nbsp;&nbsp;
@@ -99,12 +99,14 @@ I'm passionate about writing clean, maintainable code and building scalable web 
   <img src="https://skillicons.dev/icons?i=railway" height="50" />
 </p>
 
+
+
 ## 📍 Location & Contact
 
 - 📍 **Location:** Satkhira, Khulna, Bangladesh
 - 📧 **Email:** mdfayzurrahman030@gmail.com
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -112,11 +114,11 @@ I'm passionate about writing clean, maintainable code and building scalable web 
 
 <a href="https://www.linkedin.com/in/md-fayzur-rahman-00a673380/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/fayzur030">
   <img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" />
@@ -124,23 +126,23 @@ I'm passionate about writing clean, maintainable code and building scalable web 
 
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=fayzur030&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
+    height="170"&nbsp;&nbsp
   />
 
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=fayzur030&theme=tokyonight&hide_border=true"
-    height="170"
+    height="170" 
   />
 </p>
 
----
+
 
 
 
@@ -148,12 +150,21 @@ I'm passionate about writing clean, maintainable code and building scalable web 
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=fayzur030&theme=tokyo-night&hide_border=true"
-    width="100%"
+    src="https://activity-graph.herokuapp.com/graph?username=fayzur030&theme=tokyo-night&hide_border=true" 
+    width="100%" 
   />
 </p>
 
----
+
+### 🐍 GitHub Contribution Snake
+
+<p align="left">
+  <img
+    src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
 
 ## 🚀 Featured Projects
 
