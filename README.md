@@ -150,8 +150,12 @@ I'm passionate about writing clean, maintainable code and building scalable web 
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:mdfayzurrahman030@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" alt="Email" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdfayzurrahman030@gmail.com">
+  <img
+    src="https://img.icons8.com/color/48/gmail-new.png"
+    height="45"
+    alt="Email"
+  />
 </a>
 
 </p>
