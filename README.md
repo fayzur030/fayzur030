@@ -174,6 +174,80 @@ I'm passionate about writing clean, maintainable code and building scalable web 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=fayzur030&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
+    height="180"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com/?user=fayzur030&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <!-- <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=fayzur030&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    height="180"
+    alt="Top Languages"
+  /> -->
+</p>
+
+
+<!-- <p align="center"> -->
+  <!-- <img
+    src="https://github-readme-stats.shion.dev/api?username=fayzur030&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"
+    height="180"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com/?user=fayzur030&theme=tokyonight&hide_border=false"
+    height="180"
+    alt="GitHub Streak"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=fayzur030&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    height="180"
+    alt="Top Languages"
+  /> -->
+<!-- </p> -->
+
+---
+
+
+
+<!-- <p align="center"> -->
+  <!-- <img
+    src="https://github-readme-stats.shion.dev/api?username=fayzur030&theme=radical&hide_border=false&include_all_commits=false&count_private=false"
+    height="180"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com/?user=fayzur030&theme=radical&hide_border=false"
+    height="180"
+    alt="GitHub Streak"
+  />
+  &nbsp;&nbsp;&nbsp; -->
+  <!-- <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=fayzur030&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    height="180"
+    alt="Top Languages"
+  /> -->
+<!-- </p> -->
+
+
+<!-- <p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=fayzur030&icon=0&color=0"
+    alt="Profile Views"
+  /> -->
+<!-- </p> -->
+
+
+<!-- <p align="center"> -->
 
 <!-- <img
   src="https://github-readme-stats.vercel.app/api?username=fayzur030&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
@@ -181,13 +255,13 @@ I'm passionate about writing clean, maintainable code and building scalable web 
   alt="GitHub Stats"
 /> -->
 
-<img
+<!-- <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=fayzur030&theme=tokyonight&hide_border=true"
   height="170"
   alt="GitHub Streak"
-/>
+/> -->
 
-</p>
+<!-- </p> -->
 
 
 
