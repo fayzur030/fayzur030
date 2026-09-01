@@ -1,164 +1,192 @@
-<!-- ======================= Banner ======================= -->
+<!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img 
+  <img
     src="https://github.com/fayzur030/fayzur030/blob/main/ChatGPT%20Image%20banner%20Jul%2013%2C%202026%2C%2007_44_46%20PM.png"
     width="100%"
+    alt="Md. Fayzur Rahman Banner"
   />
 </p>
 
-<!-- ======================= Introduction ======================= -->
-
-<h1 align="center">Hi 👋, I'm Md. Fayzur Rahman</h1>
+<h1 align="center">
+  Hi 👋, I'm Md. Fayzur Rahman
+</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Passionate+Full-Stack+Web+Developer;JavaScript+Enthusiast;React.js+Node.js+%7C+Next.js+%7C+TypeScript;Software+Engineering"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Passionate+Full-Stack+Web+Developer;JavaScript+Enthusiast;React.js+%7C+Node.js+%7C+Next.js+%7C+TypeScript;Interested+in+Software+Engineering"
       alt="Typing SVG"
     />
   </a>
 </p>
-<!-- <h3 align="center">
- Passionate Full-Stack Web Developer | JavaScript Enthusiast | React.js | Next.js | TypeScript | Software Engineering
-</h3> -->
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/fayzur030">
-    <img src="https://img.shields.io/github/followers/fayzur030?label=Followers&style=for-the-badge" />
+    <img
+      src="https://img.shields.io/github/followers/fayzur030?label=Followers&style=for-the-badge"
+      alt="GitHub Followers"
+    />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=fayzur030&label=Profile%20Views&color=6366F1&style=for-the-badge" />
-</p> -->
+  <img
+    src="https://komarev.com/ghpvc/?username=fayzur030&label=Profile%20Views&color=6366F1&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
 
+<!-- ======================= ABOUT ME ======================= -->
 
 ## 👨‍💻 About Me
 
 I'm **Md. Fayzur Rahman**, a passionate **Full-Stack Web Developer** from Bangladesh.
 
-I enjoy building modern, responsive, and user-friendly web applications from frontend to backend. Currently, I'm focusing on strengthening my skills in **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, and databases** while working on real-world projects.
+I enjoy building modern, responsive, and user-friendly web applications from frontend to backend. Currently, I'm focusing on strengthening my skills in **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, and MongoDB** while working on real-world projects.
 
-I'm passionate about writing clean, maintainable code and building scalable web applications. I’m continuously learning new technologies and improving my problem-solving skills to become a better software engineer.
+I'm passionate about writing clean, maintainable code and building scalable web applications. I continuously learn new technologies and improve my problem-solving skills to grow as a software engineer.
 
-- 👋 Hi, I am <a href="https://github.com/fayzur030">fayzur030</a>
-- 🚀 Currently working on React js typeScriot for frontend development.
-- ⚛️ Building projects with **Next.js & TypeScript**
-- 🎨 Learning and using **Tailwind CSS**
-- 🔧 Practicing modern frontend development
-- 📚 Continuously improving my JavaScript & TypeScript skills
-- 💡 Interested in building clean and scalable web applications
-- 📥 Feel free to reach me out <a href="mailto:mdfayzurrahman030@gmail.com">Email</a>
+- 🚀 Currently working on **React.js & TypeScript** for frontend development
+- ⚛️ Building modern web applications with **React.js & Next.js**
+- 🎨 Creating responsive interfaces with **Tailwind CSS**
+- 🔧 Exploring **Node.js & Express.js** for backend development
+- 🗄️ Learning and working with **MongoDB**
+- 📚 Continuously improving my **JavaScript & TypeScript** skills
+- 💡 Interested in building clean, scalable, and maintainable applications
+- 📥 Feel free to reach me: <a href="mailto:mdfayzurrahman030@gmail.com">Email</a>
 
---
 
-## 🛠️ TECHNOLOGY STACK:
+<!-- ======================= TECHNOLOGY STACK ======================= -->
 
-🔗 ### Languages:
+## 🛠️ Technology Stack
 
-<p align="start">
-  <img src="https://skillicons.dev/icons?i=html" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="50" />&nbsp;&nbsp;
-  <!-- <img src="https://skillicons.dev/icons?i=tailwind" height="50" />&nbsp;&nbsp; -->
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=typescript" height="50" />&nbsp;&nbsp;
- 
-  <!-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" height="50" />&nbsp;&nbsp; -->
-  <!-- <img src="https://skillicons.dev/icons?i=git" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=npm" height="50" /> -->
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript" />
 </p>
 
-🔗 ### CSS Framework & Libraies:
-<p align="start">
+### 🎨 CSS Framework & Libraries
 
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />&nbsp;&nbsp;
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
 </p>
 
-🔗 ### JavaScript Framework & Libraies:
-<p align="start">
- <img src="https://skillicons.dev/icons?i=react" height="50" />&nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" height="50" />&nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="50" />&nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="50" />&nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" height="50" />&nbsp;&nbsp;
-  
+### ⚛️ JavaScript Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React.js" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" height="50" alt="Next.js" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="50" alt="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="50" alt="Express.js" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" height="50" alt="Redux" />
 </p>
 
-🔗 ### Databas:
-<p align="start">
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="50" />&nbsp;&nbsp;
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="50" alt="MongoDB" />
 </p>
 
-### Deployment Platforms
+### 🚀 Deployment Platforms
 
-<p align="start">
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=netlify" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=render" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=railway" height="50" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="Netlify" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=render" height="50" alt="Render" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=railway" height="50" alt="Railway" />
+</p>
+
+### 🧰 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=npm" height="50" alt="NPM" />
 </p>
 
 
+<!-- ======================= CURRENTLY WORKING ON ======================= -->
 
-## 📍 Location & Contact
+## 🚀 Currently Working On
 
-- 📍 **Location:** Satkhira, Khulna, Bangladesh
-- 📧 **Email:** mdfayzurrahman030@gmail.com
+- 🔥 Building projects with **React.js & TypeScript**
+- ⚡ Exploring **Next.js**
+- 🛠️ Learning **Node.js & Express.js**
+- 🗄️ Practicing **MongoDB & REST APIs**
+- 📚 Improving my **Full-Stack Development** skills
 
 
+<!-- ======================= CONNECT ======================= -->
 
 ## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/md-fayzur-rahman-00a673380/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/fayzur030">
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+</a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" />
+<a href="mailto:mdfayzurrahman030@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" alt="Email" />
 </a>
 
 </p>
 
 
+<!-- ======================= GITHUB STATS ======================= -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=fayzur030&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"&nbsp;&nbsp
-  />
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=fayzur030&theme=tokyonight&hide_border=true"
-    height="170" 
-  />
+<!-- <img
+  src="https://github-readme-stats.vercel.app/api?username=fayzur030&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  height="170"
+  alt="GitHub Stats"
+/> -->
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=fayzur030&theme=tokyonight&hide_border=true"
+  height="170"
+  alt="GitHub Streak"
+/>
+
 </p>
 
 
 
+<!-- ======================= ACTIVITY ======================= -->
 
 
- ## 📈 GitHub Activity
+
+<!-- ======================= CONTRIBUTION SNAKE ======================= -->
+
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img 
-    src="https://activity-graph.herokuapp.com/graph?username=fayzur030&theme=tokyo-night&hide_border=true" 
-    width="100%" 
-  />
-</p>
-
-
-### 🐍 GitHub Contribution Snake
-
-<p align="left">
   <img
     src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"
     alt="GitHub Contribution Snake"
@@ -166,52 +194,64 @@ I'm passionate about writing clean, maintainable code and building scalable web 
   />
 </p>
 
+
+<!-- ======================= FEATURED PROJECTS ======================= -->
+
 ## 🚀 Featured Projects
 
 ### 🍳 Recipe Finder
 
-**Recipe Finder** is a modern and user-friendly web application that helps users discover delicious recipes quickly and easily. Users can explore a variety of recipes, view detailed information, and find recipes based on their preferences.
+A modern and responsive recipe-finding web app built with **React.js** and **REST API**. Users can search and explore recipes through a clean and user-friendly interface.
 
-The application is built with **React.js** and integrates a recipe API to fetch and display dynamic recipe data. It focuses on a clean, responsive UI and a smooth user experience across different devices.
+**Tech Stack:** React.js • JavaScript • Tailwind CSS • REST API
 
-### ✨ Key Features
+**Features:**
+- 🔍 Recipe search
+- 🍽️ Recipe browsing
+- 📖 Recipe details
+- ⚡ API integration
+- 📱 Responsive design
+- 🔄 Loading state
+- ❌ Error handling
 
-* 🔍 Search and discover recipes
-* 🍽️ Browse different recipes
-* 📖 View detailed recipe information
-* ⚡ Dynamic data fetching using API
-* 📱 Fully responsive design
-* 🎨 Clean and modern user interface
-* 🔄 Loading state while fetching data
-* ❌ Error handling for API requests
-* 
-🔗 **Live Demo: <a href='https://fayzur-recipe-finder-application.netlify.app/'>Demo Link <a/> 
+🔗 **Live Demo:** <a href="https://fayzur-recipe-finder-application.netlify.app/">View Project</a>
 
 
 ### 🛒 E-Commerce Application
 
-A modern e-commerce application with product listing, API integration, and responsive UI.
+A modern and responsive e-commerce application with product listing, API integration, and a clean user interface.
 
-**Tech Stack:**  
-React.js • TypeScript • Tailwind CSS • REST API
+**Tech Stack:** React.js • TypeScript • Tailwind CSS • REST API
 
 **Features:**
-- Product listing
-- API integration
-- Responsive UI
-- Product details
-- Reusable components
+- 🛍️ Product listing
+- 🔌 REST API integration
+- 📱 Responsive design
+- 📦 Product details
+- ♻️ Reusable components
 
-🔗 **Live Demo: <a href='https://fayzur-ecommerce.netlify.app/'>Demo Link a/>  
+🔗 **Live Demo:** <a href="https://fayzur-ecommerce.netlify.app/">View Project</a>
 
 
----
+<!-- ======================= GOALS ======================= -->
 
-## 🎯 Current Focus
+## 🎯 Goals
 
-```text
-React.js        ███████████████████░   90%
-JavaScript      ███████████████████░   90%
-TypeScript      ███████████████░░░░░   75%
-Next.js         ██████████████░░░░░░   70%
-Tailwind CSS    █████████████████░░░   85%
+- 🚀 Become a professional Full-Stack Web Developer
+- ⚛️ Master React.js & Next.js
+- 🟦 Improve TypeScript skills
+- 🛠️ Build scalable backend applications
+- 🗄️ Become proficient with databases
+- 🌎 Contribute to open-source projects
+- 🤝 Collaborate on real-world projects
+
+
+<!-- ======================= FOOTER ======================= -->
+
+<p align="center">
+  <b>Thanks for visiting my profile! ❤️</b>
+</p>
+
+<p align="center">
+  <i>Let's build something amazing together 🚀</i>
+</p>
