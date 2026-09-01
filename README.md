@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/fayzur030">
     <img
       src="https://img.shields.io/github/followers/fayzur030?label=Followers&style=for-the-badge"
@@ -32,7 +32,7 @@
     src="https://komarev.com/ghpvc/?username=fayzur030&label=Profile%20Views&color=6366F1&style=for-the-badge"
     alt="Profile Views"
   />
-</p>
+</p> -->
 
 
 <!-- ======================= ABOUT ME ======================= -->
