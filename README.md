@@ -53,7 +53,7 @@ I'm passionate about writing clean, maintainable code and building scalable web 
 
 ## 🛠️ TECHNOLOGY STACK:
 
-### Languages:
+🔗 ### Languages:
 
 <p align="start">
   <img src="https://skillicons.dev/icons?i=html" height="50" />&nbsp;&nbsp;
@@ -69,13 +69,13 @@ I'm passionate about writing clean, maintainable code and building scalable web 
   <img src="https://skillicons.dev/icons?i=npm" height="50" /> -->
 </p>
 
-### CSS Framework & Libraies:
+🔗 ### CSS Framework & Libraies:
 <p align="start">
 
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" />&nbsp;&nbsp;
 </p>
 
-### JavaScript Framework & Libraies:
+🔗 ### JavaScript Framework & Libraies:
 <p align="start">
  <img src="https://skillicons.dev/icons?i=react" height="50" />&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" height="50" />&nbsp;&nbsp;
@@ -85,7 +85,7 @@ I'm passionate about writing clean, maintainable code and building scalable web 
   
 </p>
 
-### Databas:
+🔗 ### Databas:
 <p align="start">
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="50" />&nbsp;&nbsp;
 </p>
@@ -146,7 +146,7 @@ I'm passionate about writing clean, maintainable code and building scalable web 
 
 
 
-## 📈 GitHub Activity
+ ## 📈 GitHub Activity
 
 <p align="center">
   <img 
@@ -168,23 +168,25 @@ I'm passionate about writing clean, maintainable code and building scalable web 
 
 ## 🚀 Featured Projects
 
-### 🍽️ Restaurant Website
+### 🍳 Recipe Finder
 
-A modern and responsive restaurant website built with modern frontend technologies.
+**Recipe Finder** is a modern and user-friendly web application that helps users discover delicious recipes quickly and easily. Users can explore a variety of recipes, view detailed information, and find recipes based on their preferences.
 
-**Tech Stack:**  
-React.js • TypeScript • Tailwind CSS
+The application is built with **React.js** and integrates a recipe API to fetch and display dynamic recipe data. It focuses on a clean, responsive UI and a smooth user experience across different devices.
 
-**Features:**
-- Responsive design
-- Modern UI
-- Reusable components
-- Mobile-friendly layout
+### ✨ Key Features
 
-🔗 **Live Demo:** YOUR_LIVE_LINK  
-🔗 **Repository:** YOUR_REPOSITORY_LINK
+* 🔍 Search and discover recipes
+* 🍽️ Browse different recipes
+* 📖 View detailed recipe information
+* ⚡ Dynamic data fetching using API
+* 📱 Fully responsive design
+* 🎨 Clean and modern user interface
+* 🔄 Loading state while fetching data
+* ❌ Error handling for API requests
+* 
+🔗 **Live Demo: <a href='https://fayzur-recipe-finder-application.netlify.app/'>Demo Link <a/> 
 
----
 
 ### 🛒 E-Commerce Application
 
@@ -200,8 +202,8 @@ React.js • TypeScript • Tailwind CSS • REST API
 - Product details
 - Reusable components
 
-🔗 **Live Demo:** YOUR_LIVE_LINK  
-🔗 **Repository:** YOUR_REPOSITORY_LINK
+🔗 **Live Demo: <a href='https://fayzur-ecommerce.netlify.app/'>Demo Link a/>  
+
 
 ---
 
