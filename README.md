@@ -134,6 +134,14 @@ I'm passionate about writing clean, maintainable code and building scalable web 
 - 📚 Improving my **Full-Stack Development** skills
 
 
+<!-- ======================= Location ======================= -->
+
+
+## 📍 Location & Contact : 
+
+- **Location:** Satkhira, Khulna, Bangladesh 
+- 📧 **Email:** mdfayzurrahman030@gmail.com
+
 <!-- ======================= CONNECT ======================= -->
 
 ## 🌐 Connect With Me
