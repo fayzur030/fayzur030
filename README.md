@@ -130,7 +130,7 @@ I'm passionate about writing clean, maintainable code and building scalable web 
 - 🔥 Building projects with **React.js & TypeScript**
 - ⚡ Exploring **Next.js**
 - 🛠️ Learning **Node.js & Express.js**
-- 🗄️ Practicing **MongoDB & REST APIs**
+- 🗄️ Learning **MongoDB & REST APIs**
 - 📚 Improving my **Full-Stack Development** skills
 
 
