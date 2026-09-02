@@ -270,6 +270,23 @@ A modern and responsive recipe-finding web app built with **React.js** and **RES
 
 🔗 **Live Demo:** <a href="https://fayzur-recipe-finder-application.netlify.app/">View Project</a>
 
+### 🎬 Movie Application
+
+A modern and responsive movie application that allows users to explore movies, view movie details, and discover popular and trending content through API integration.
+
+**Tech Stack:** React.js • TypeScript • Tailwind CSS • REST API
+
+**Features:**
+
+- 🎬 Movie listing
+- 🔍 Movie search
+- 🔌 REST API integration
+- ⭐ Popular & trending movies
+- 📄 Movie details
+- 📱 Responsive design
+- ♻️ Reusable components
+
+🔗 **Live Demo:**  <a href="https://movie-app-swart-six-28.vercel.app/">View Project</a>
 
 ### 🛒 E-Commerce Application
 
